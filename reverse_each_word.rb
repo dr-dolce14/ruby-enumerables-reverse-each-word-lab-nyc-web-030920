@@ -1,1 +1,0 @@
-new_array.collect{|word| word.reverse}
