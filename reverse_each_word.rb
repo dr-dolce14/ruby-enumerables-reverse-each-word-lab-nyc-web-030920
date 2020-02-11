@@ -1,2 +1,2 @@
 new_array = message.split
-new_array.each{|word| p word.reverse}
+new_array.each{|word| puts word.reverse}
